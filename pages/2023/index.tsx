@@ -18,6 +18,9 @@ export default function Page() {
         <li>
           サイバーメタルチンピラ２です。（だいちろ）<br />
           <Link href={'/2023/daichiro/1'}>１</Link>
+          <Link href={'/2023/daichiro/2'}>２</Link>
+          <Link href={'/2023/daichiro/3'}>３</Link>
+          <Link href={'/2023/daichiro/4'}>４</Link>
         </li>
         <li>
           チーズ作るよ（kinoppyd）<br />
@@ -27,6 +30,23 @@ export default function Page() {
           <Link href={'/2023/kinoppyd/4'}>４</Link>
           <Link href={'/2023/kinoppyd/5'}>５</Link>
           <Link href={'/2023/kinoppyd/6'}>６</Link>
+        </li>
+        <li>
+          skebで名画を出す（冬椿）<br />
+          <Link href={'/2023/fuyutsubaki/1'}>１</Link>
+          <Link href={'/2023/fuyutsubaki/2'}>２</Link>
+          <Link href={'/2023/fuyutsubaki/3'}>３</Link>
+          <Link href={'/2023/fuyutsubaki/4'}>４</Link>
+        </li>
+        <li>
+          身の回りのものをAIで美少女化したら楽しかった件（kuri）<br />
+          <Link href={'/2023/kuri/1'}>１</Link>
+          <Link href={'/2023/kuri/2'}>２</Link>
+          <Link href={'/2023/kuri/3'}>３</Link>
+          <Link href={'/2023/kuri/4'}>４</Link>
+          <Link href={'/2023/kuri/5'}>５</Link>
+          <Link href={'/2023/kuri/6'}>６</Link>
+          <Link href={'/2023/kuri/7'}>７</Link>
         </li>
         <li>
           10万円で始める同人誌即売会の開き方（ryudo）<br />
@@ -40,23 +60,9 @@ export default function Page() {
         <li>
           島風くんコスプレを楽しむために知っておくべき事（きすちぃ）<br />
           <Link href={'/2023/quisty/1'}>１</Link>
-        </li>
-        <li>
-          身の回りのものをAIで美少女化したら楽しかった件（kuri）<br />
-          <Link href={'/2023/kuri/1'}>１</Link>
-          <Link href={'/2023/kuri/2'}>２</Link>
-          <Link href={'/2023/kuri/3'}>３</Link>
-          <Link href={'/2023/kuri/4'}>４</Link>
-          <Link href={'/2023/kuri/5'}>５</Link>
-          <Link href={'/2023/kuri/6'}>６</Link>
-          <Link href={'/2023/kuri/7'}>７</Link>
-        </li>
-        <li>
-          skebで名画を出す（冬椿）<br />
-          <Link href={'/2023/fuyutsubaki/1'}>１</Link>
-          <Link href={'/2023/fuyutsubaki/2'}>２</Link>
-          <Link href={'/2023/fuyutsubaki/3'}>３</Link>
-          <Link href={'/2023/fuyutsubaki/4'}>４</Link>
+          <Link href={'/2023/quisty/2'}>２</Link>
+          <Link href={'/2023/quisty/3'}>３</Link>
+          <Link href={'/2023/quisty/4'}>４</Link>
         </li>
         <li>
           分かりやすくもない Android 端末購入ガイド（happo31）<br />

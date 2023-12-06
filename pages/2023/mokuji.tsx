@@ -26,16 +26,9 @@ export default function Page() {
       />
       <Mokuji
         page={999}
-        title={'10万円で始める同人誌即売会の開き方'}
-        description={'誰でも10万円あれば、同人誌即売会を開ける事をお伝えしたい！！'}
-        author={'ryudo'}
-        // 1page
-      />
-      <Mokuji
-        page={999}
-        title={'島風くんコスプレを楽しむために知っておくべき事'}
-        description={'日本のコスプレイベントの「ルール」とかを調べたやつを吐き出します'}
-        author={'きすちぃ'}
+        title={'skebで名画を出す'}
+        description={'masterpieceって書く <- 間違い'}
+        author={'冬椿'}
         // 1page
       />
       <Mokuji
@@ -47,9 +40,16 @@ export default function Page() {
       />
       <Mokuji
         page={999}
-        title={'skebで名画を出す'}
-        description={'masterpieceって書く <- 間違い'}
-        author={'冬椿'}
+        title={'10万円で始める同人誌即売会の開き方'}
+        description={'誰でも10万円あれば、同人誌即売会を開ける事をお伝えしたい！！'}
+        author={'ryudo'}
+        // 1page
+      />
+      <Mokuji
+        page={999}
+        title={'島風くんコスプレを楽しむために知っておくべき事'}
+        description={'日本のコスプレイベントの「ルール」とかを調べたやつを吐き出します'}
+        author={'きすちぃ'}
         // 1page
       />
       <Mokuji
