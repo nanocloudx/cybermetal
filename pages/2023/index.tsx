@@ -99,6 +99,13 @@ export default function Page() {
         <li>
           婚活RTA（なのくろ）<br />
           <Link href={'/2023/nanocloudx/1'}>１</Link>
+          <Link href={'/2023/nanocloudx/2'}>２</Link>
+          <Link href={'/2023/nanocloudx/3'}>３</Link>
+          <Link href={'/2023/nanocloudx/4'}>４</Link>
+          <Link href={'/2023/nanocloudx/5'}>５</Link>
+          <Link href={'/2023/nanocloudx/6'}>６</Link>
+          <Link href={'/2023/nanocloudx/7'}>７</Link>
+          <Link href={'/2023/nanocloudx/8'}>８</Link>
         </li>
         <li>
           猫と赤子（ながいたん）<br />
