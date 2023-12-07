@@ -8,7 +8,7 @@ export default function Page() {
       publishEvent={'コミックマーケット103'}
       publisher={'サイバーメタルチンピラ一同'}
       contact={'nanocloudx@gmail.com'}
-      printer={'未定'}
+      printer={'株式会社栄光'}
     />
   )
 }
