@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'nanocloudx'} pageCount={8}>
       <h2>婚活RTA</h2>
       <p>筆者も結婚相談所に登録して活動をしてみた。筆者のスペックは33歳男性、高卒、バツイチ、やや太め、平社員。年収は平均以上だがそれ以外に特に目立つ要素はない。プロフィールの魅力は低めだろう。マッチングアプリで１いいねも貰えない典型例である。</p>
       <p>が、いざ活動を始めてみたらバチェラー状態だった。前述の通り男性で30代前半というのは結婚相談所においては希少価値である。100名以上の方からお見合いの申し込みをいただけた。大変有難いことである。</p>

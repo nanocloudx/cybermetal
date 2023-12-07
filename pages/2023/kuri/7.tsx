@@ -3,7 +3,7 @@ import {ImageTwoColumn} from '../../../components/ImageTwoColumn'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kuri'} pageCount={7}>
       <h3>ポーカー テキサスホールデム カジノ</h3>
       <ImageTwoColumn href={'/2023/kuri/kuri16.png'}>
         <p>最近流行っている「テキサスホールデム」のイメージイラストです。テーブルを囲んでチップとカードが散らばっている雰囲気がとても良いですね。詳細なディティールはまだまだといった所ですが、十分にテキサスホールデム感は伝わってきます。</p>

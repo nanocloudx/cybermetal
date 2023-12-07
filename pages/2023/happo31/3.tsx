@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'happo31'} pageCount={3}>
       <h2>2. スペックを見ながら候補を挙げる</h2>
       <p>目的が定まったら、冒頭で挙げたツール[2]を使いながら端末を選びましょう。</p>
       <p>ここでは、その際に注目するといい項目を挙げていきます。iPhone に比べると比較しておいたほうがいい項目がそれなりに多いのでやや大変ですが、諦めてください。</p>

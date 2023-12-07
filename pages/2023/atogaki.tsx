@@ -3,7 +3,7 @@ import {Pagination} from '../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'atogaki'} pageCount={1}>
       <div>
         <h2>編集後記</h2>
         <p>

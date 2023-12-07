@@ -4,7 +4,7 @@ import {getPageCount} from './pageCount'
 
 export default function Page() {
   return (
-    <Pagination page={getPageCount('mokuji')}>
+    <Pagination author={'mokuji'} pageCount={1}>
       <h1 style={{marginBottom: '1.2rem', fontSize: '1.5rem'}}>目次</h1>
       <Mokuji
         page={getPageCount('prologue')}

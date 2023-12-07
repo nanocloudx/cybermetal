@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'tayama'} pageCount={9}>
       <h2>追記</h2>
       <p>本記事を書いている途中に気づいたのですが、Meta Quest 3
         [^5]など最近のVR機器にはビデオパススルー機能があり、周囲の映像をカメラで取り込んでゴーグル内に映せるそうです。これを複視持ちの筆者が使ったらどう視えるのか......？有識者に聞くと、この機能はパンフォーカスで遠近両方に焦点の合った映像を、右眼用と左眼用2つのディスプレイに映すものだそうです。装着者はディスプレイに対して焦点を合わせればよいので、筆者の複視を矯正できる可能性はありそうに思います。</p>

@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'tayama'} pageCount={7}>
       <Image href={'/2023/tayama/tayama4.png'} widthPercentage={95}
              description={'左図：プリズムレンズの眼鏡 右図：近視プリズムレンズ（左）と近視レンズ（右）'}/>
       <p>眼鏡で十分矯正できるので、これでいったん治療は終了と相成りました。万が一もっと悪化するようなことがあれば、そのときは手術になるそうです。根本治療できれば嬉しいのですが、手術か眼鏡かと言われると眼鏡のほうが安牌だよねというのは納得のいくところです。しかし、半年間4つの診療科にわたって検査漬けだった日々が、まさか眼鏡一発で終わるとは......！</p>

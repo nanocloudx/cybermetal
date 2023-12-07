@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'ryudo'} pageCount={5}>
       <h2>１９ スタッフ弁当とドリンクと打ち上げ</h2>
       <p>弁当は500円前後が基本、ドリンクは1人数本程度、打ち上げ台はこの規模ならスタッフにも負担してもらう事は良くある。売り上げが上がれば、皆におごってあげたいね！！</p>
       <h2>２０ 備品</h2>

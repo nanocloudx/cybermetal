@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'shodai'} pageCount={1}>
       <Title
         title={'街角に佇む謎のアニメ看板マッサージ店の真実に迫る'}
         description={'アニメイラスト看板のマッサージ店は異世界ダンジョンへの入口だった！？'}

@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kuri'} pageCount={3}>
       <Image href={'/2023/kuri/kuri5.png'} description={'生成された画像'} widthPercentage={40}/>
       <p>画像は2x2の1枚絵として出力され、後述するUI操作で切り出したり解像度を上げることができます。出力された画像は他人も見ることができますが、有料版のステルスモードを使えば隠せます。</p>
       <h3>画像の加工や再生成の方法</h3>

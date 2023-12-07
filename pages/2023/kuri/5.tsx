@@ -3,7 +3,7 @@ import {ImageTwoColumn} from '../../../components/ImageTwoColumn'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kuri'} pageCount={5}>
       <h3>歌舞伎 芸者</h3>
       <ImageTwoColumn href={'/2023/kuri/kuri10.png'}>
         <p>筆者は銀座の歌舞伎座あたりで仕事をしていたことがあったので、歌舞伎チックな画像を生成してみました。和風で派手派手なイメージアートが生まれて大変満足です。手指の破綻などもないので、ポスターなどにもそのまま使えそうですね。</p>

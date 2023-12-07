@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'nanocloudx'} pageCount={7}>
       <h2>実際の流れ</h2>
       <p>IBJ系の結婚相談所の場合「<strong>マッチング→お見合い→仮交際→本交際→成婚</strong>」という流れで活動するのだが、<strong>お見合いからプロポーズまでの期間は約3ヶ月</strong>という目安がある。あくまで目安ではあるが非常に期間が短いと感じる。付き合い始めは盲目になると前述したが、むしろその勢いで行けということなのだろう。
       </p>

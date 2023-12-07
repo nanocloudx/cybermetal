@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'happo31'} pageCount={5}>
       <p>なぜなら、<strong>スマートフォンの使用感は瞬間性能ではなく、バッテリーの持ちや安定した性能を発揮し続けられるか</strong>が重要だからです。</p>
       <p>巷にはそうやってベンチマークスコアを比較して「xxxx
         は低性能！爆熱！」とか煽ってる記事がたくさんありますが、こういう観点で見るとベンチマークスコアが低いというのはただの言いがかりに過ぎないことがよくわかると思います。</p>

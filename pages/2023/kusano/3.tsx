@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kusano'} pageCount={3}>
       <h5>コーナーカット</h5>
       <p>昔のルービックキューブは、ある面を回すときにきっちり90度回さないと次に他の面を回すときに引っ掛かってしまう。最近のキューブは少しくらいずれていても次の面が回せる。少しくらいというか、良いキューブでは45度ずれていても、つまり最初に回した面を一番中途半端な位置にしていても、次の面が回せる。ずれが大きくても次の面が回せることを「コーナーカットが広い」という。</p>
       <h5>磁石入り</h5>

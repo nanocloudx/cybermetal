@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'nanocloudx'} pageCount={2}>
       <h2>免責</h2>
       <p><strong>この記事は結婚を強く推奨するものではない。</strong>価値観や生き方は人それぞれだ。<br/>本稿の対象読者は「結婚願望があるのに何もしていない人」に向けたものである。
       </p>

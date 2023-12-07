@@ -3,7 +3,7 @@ import {PrologueContainer} from '../../../components/PrologueContainer'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'prologue'} pageCount={2}>
       <PrologueContainer>
         <p>例えば、カウンターの向かいに座っている両腕サイバネアームの目立つ小柄の男は、そのまるでポケットに入りそうな容姿とは裏腹に、軍用の
           <ruby>人工神経

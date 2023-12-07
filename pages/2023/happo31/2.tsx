@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'happo31'} pageCount={2}>
       <p>というわけでまずはフローチャート</p>
       <Image href={'/2023/happo31/chart.png'} description={'早わかり！Androidデバイス選定フローチャート！'} widthPercentage={65}/>
       <p>ここで察してもらった人はこの先を読まなくても大丈夫だと思います。</p>

@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'fuyutsubaki'} pageCount={2}>
       <ul>
         <li>顔の傷は赤い？青い？傷は他にもある？古傷は？治療のあとはある？</li>
         <li>泣いている？笑っている？目を逸らしている？こちらを睨んでいる？</li>

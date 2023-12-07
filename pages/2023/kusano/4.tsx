@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kusano'} pageCount={4}>
       <h2>大会</h2>
       <p>World Cube
         Association（WCA）という団体がある。この団体が認可して、世界中で大会が開かれる。「ルービックキューブの世界記録更新」などとときどきニュースになるのはこの種の大会での記録である。競技者が自宅でキューブを回して出した記録というわけではない。</p>

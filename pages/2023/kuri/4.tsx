@@ -3,7 +3,7 @@ import {ImageTwoColumn} from '../../../components/ImageTwoColumn'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kuri'} pageCount={4}>
       <h2>サイバーメタルチンピラギャラリー</h2>
       <p>ここからは実際ににじジャーニーを利用して、筆者の身の回りにあるキーワードを擬人化、美少女化してみます。基本的なプロンプトは『アニメ 詳細なデティール
         ハイクオリティー {'{それぞれのキーワード}'} 女の子 アートポスター --ar 16:9』を入力しています。</p>

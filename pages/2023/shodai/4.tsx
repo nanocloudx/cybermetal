@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'shodai'} pageCount={4}>
       <h2>4.ダンジョンを攻略せよ！</h2>
       <p>ここまでで、ダンジョンの探索に興味を持ってくれた方もいるだろう。そんな瘴気を滾らせた冒険者へのアドバイスを記したいと思う。まずは、ダンジョンごとの傾向からだ。あくまで体感の話なので、そこは注意を願いたい。サンプル数としてはトータルでn=100程度だ。</p>
       <ul>

@@ -3,7 +3,7 @@ import {PrologueContainer} from '../../../components/PrologueContainer'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'prologue'} pageCount={1}>
       <PrologueContainer>
         <h3>プロローグ</h3>
         <p>ノイズすら飲み込むような真っ黒な海を、

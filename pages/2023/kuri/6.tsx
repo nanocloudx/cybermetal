@@ -3,7 +3,7 @@ import {ImageTwoColumn} from '../../../components/ImageTwoColumn'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kuri'} pageCount={6}>
       <h3>龍道会 極道 宴会</h3>
       <ImageTwoColumn href={'/2023/kuri/kuri13.png'}>
         <p>サイバーメタルチンピラのメンバーも多数参加しているという闇のコミュニティ「龍道会」のイメージイラストです。「龍」の持つイメージからか、和のイメージが強くでました。左から青/黒/白/赤と衣装のカラーバランスが美しく、四天王のような感じで構図が揃っていて素敵ですね。</p>

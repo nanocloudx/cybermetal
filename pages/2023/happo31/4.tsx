@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'happo31'} pageCount={4}>
       <h3>生体認証</h3>
       <p>PINやパターンで十分という人は気にしなくていいやつです。</p>
       <p>最近の端末は安い端末であっても指紋認証は載っていることが多い気がします。端末間で違うことが多いのは 画面内指紋認証 か 指紋センサー

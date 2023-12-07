@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'ryudo'} pageCount={4}>
       <h2>１３ コスプレ＋更衣室</h2>
       <p>男子は適当！！女子は、ちゃんと閉じられた空間を作り女子のスタッフを入口に張り付け必須。出入り口は、パーテーションでL字型に作ると良い感じ。</p>
       <h2>１４ 配置と設営図面</h2>

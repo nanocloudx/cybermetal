@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'ryudo'} pageCount={2}>
       <h2>４ 日程が決まる</h2>
       <p>会場が決まれば日程が決まるぞ。</p>
       <p>日程は下記のルールを守れば大抵は安全に運営できるぞ。</p>

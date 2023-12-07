@@ -4,7 +4,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'tayama'} pageCount={1}>
       <Title
         title={'筆者の異常な視界'}
         description={'またはいかにして私は心配するのをやめてプリズムを愛するようになったか'}

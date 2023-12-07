@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'fuyutsubaki'} pageCount={3}>
       <p>ただ、注意点がある。人の向き不向きなんて完全には分からんということである。特に「skebで頼むようなもの」についてはなおさらである。</p>
       <p>したがって、「明らかな」向き不向きは考慮すべきでは？ぐらいの話にとどめた方がよいと思う。「skebで頼むようなもの」について、明らかに向いている人なんて中々いないからである。</p>
       <h2>[★]依頼の要件を増やしすぎない</h2>

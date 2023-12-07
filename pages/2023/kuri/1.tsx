@@ -4,7 +4,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kuri'} pageCount={1}>
       <Title
         title={'身の回りのものをAIで美少女化したら楽しかった件'}
         description={'AIで遊んでると時間解ける、マジで。'}

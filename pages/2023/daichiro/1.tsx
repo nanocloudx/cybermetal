@@ -1,10 +1,9 @@
 import {Pagination} from '../../../components/Pagination'
 import {FullSizeImage} from '../../../components/FullSizeImage'
-import {getPageCount} from '../pageCount'
 
 export default function Page() {
   return (
-    <Pagination page={getPageCount('daichiro', 1)}>
+    <Pagination author={'daichiro'} pageCount={1}>
       <FullSizeImage href={'/2023/daichiro/daichiro1.png'}/>
     </Pagination>
   )

@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'kuri'} pageCount={2}>
       <h2>にじジャーニーの使い方</h2>
       <h3>にじジャーニー公式Discordサーバーへの参加</h3>
       <p>にじジャーニーのUIはDiscordベースで提供されており、公式サイトのサインインボタンから、にじジャーニー公式Discordサーバーに参加する必要があります。</p>

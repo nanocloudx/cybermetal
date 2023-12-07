@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'happo31'} pageCount={6}>
       <h2>4. お店で実際に触る</h2>
       <p>自分の手の大きさに合うかとか、筐体の感じは好みかとか、この辺は完全に事前に調べた情報と感覚を同期させていくような感じです。</p>
       <p>僕はこういう感覚なので新発表の iPhone をその日にﾎﾟﾁｰしてる人を見ると結構ビビる</p>

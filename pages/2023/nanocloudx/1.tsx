@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'nanocloudx'} pageCount={1}>
       <Title
         title={'婚活RTA'}
         description={'1ヶ月で結婚してみた'}

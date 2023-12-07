@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'ryudo'} pageCount={1}>
       <Title
         title={'10万円で始める同人誌即売会の開き方'}
         description={'誰でも10万円あれば、同人誌即売会を開ける事をお伝えしたい！！'}

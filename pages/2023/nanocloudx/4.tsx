@@ -2,7 +2,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'nanocloudx'} pageCount={4}>
       <h2>既に同棲している相手がいる場合</h2>
       <p>もし既に相手がいて同棲中の場合は、いますぐ役所に行こう。おめでとうございます。</p>
       <p>実生活において、<strong>同棲生活と結婚生活の違いはほとんど無い</strong>。法的に婚姻しているか程度の違いなので、後回しにする理由がない。既に共同生活がどういうものか理解しているはずなので、課題があるなら解決すればいいし、無いなら安心してよいだろう。

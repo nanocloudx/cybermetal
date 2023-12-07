@@ -3,7 +3,7 @@ import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination author={'happo31'} pageCount={1}>
       <Title
         title={'分かりやすくもないAndroid端末購入ガイド'}
         description={'に見せかけたベンチマーク主義へのアンチテーゼ'}
