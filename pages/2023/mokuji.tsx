@@ -13,7 +13,7 @@ export default function Page() {
       />
       <Mokuji
         page={getPageCount('daichiro')}
-        title={'サイバーメタルチンピラ２です。'}
+        title={'サイバーメタルチンピラです。'}
         description={'わたしがサイバーメタルチンピラでした。（衝撃の事実）'}
         author={'だいちろ'}
         // 1page

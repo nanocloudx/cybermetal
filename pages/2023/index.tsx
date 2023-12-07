@@ -16,7 +16,7 @@ export default function Page() {
           <Link href={'/2023/prologue/2'}>２</Link>
         </li>
         <li>
-          サイバーメタルチンピラ２です。（だいちろ）<br/>
+          サイバーメタルチンピラです。（だいちろ）<br/>
           <Link href={'/2023/daichiro/1'}>１</Link>
           <Link href={'/2023/daichiro/2'}>２</Link>
           <Link href={'/2023/daichiro/3'}>３</Link>
