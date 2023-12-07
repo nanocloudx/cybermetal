@@ -2,10 +2,11 @@ import {Title} from '../../../components/Title'
 import {Image} from '../../../components/Image'
 import {Pagination} from '../../../components/Pagination'
 import {FullSizeImage} from '../../../components/FullSizeImage'
+import {getPageCount} from '../pageCount'
 
 export default function Page() {
   return (
-    <Pagination page={999}>
+    <Pagination page={getPageCount('daichiro', 3)}>
       <FullSizeImage href={'/2023/daichiro/daichiro3.png'} />
     </Pagination>
   )
