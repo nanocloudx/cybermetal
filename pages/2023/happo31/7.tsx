@@ -23,7 +23,7 @@ export default function Page() {
         <li>https://www.android.com/intl/ja_jp/phones/help-me-choose/</li>
         <li>DSDS (デュアル SIM デュアルスタンバイ) と呼ばれる機能などのこと。最近はもっと高性能なもの(DSDV, DSDA) もある</li>
         <li>https://www.iijmio.jp/gigaplan/esim/phone/</li>
-        <li>https://happo31sprogblog.hatenablog.jp/realtime_preview#f-0a57e21c</li>
+        <li>REGZA Phoneとかね……</li>
       </ol>
     </Pagination>
   )

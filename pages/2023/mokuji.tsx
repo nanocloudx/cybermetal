@@ -27,7 +27,7 @@ export default function Page() {
       />
       <Mokuji
         page={getPageCount('fuyutsubaki')}
-        title={'skebで名画を出す'}
+        title={'Skebで名画を出す'}
         description={'masterpieceって書く <- 間違い'}
         author={'冬椿'}
         // 1page
