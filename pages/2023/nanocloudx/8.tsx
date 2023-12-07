@@ -1,5 +1,3 @@
-import {Title} from '../../../components/Title'
-import {Image} from '../../../components/Image'
 import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {
@@ -16,12 +14,18 @@ export default function Page() {
       <p>冒頭でも書いたが、結婚すれば幸せになるわけではない。しかし関係良好な夫婦はとても幸せなのだ。</p>
       <p>本誌の編集作業中、筆者は運悪く40℃以上の高熱に苦しめられていたのだが、嫁の献身的な看病により耐えることができた。本当に心強いなと感じた。私を選んでくれた超可愛い嫁に感謝して締めの言葉とする（惚気）</p>
       <p>皆様も末長く爆発できますように。</p>
-      <hr />
+      <hr/>
       <ol>
-        <li>厚生労働省 令和４年度 離婚に関する統計の概況 人口動態統計特殊報告<br />https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/rikon22/index.html</li>
-        <li>Toshkov, D. The Relationship Between Age and Happiness Varies by Income. J Happiness Stud 23, 1169–1188 (2022).</li>
-        <li>Grover, S., Helliwell, J.F. How’s Life at Home? New Evidence on Marriage and the Set Point for Happiness. J Happiness Stud 20, 373–390 (2019).</li>
-        <li>株式会社IBJ 2022年度版 成婚白書<br />https://www.ibjapan.jp/information/wp-content/uploads/2023/05/IBJ.pdf</li>
+        <li>厚生労働省 令和４年度 離婚に関する統計の概況 人口動態統計特殊報告<br/>https://www.mhlw.go.jp/toukei/saikin/hw/jinkou/tokusyu/rikon22/index.html
+        </li>
+        <li>Toshkov, D. The Relationship Between Age and Happiness Varies by Income. J Happiness Stud 23, 1169–1188
+          (2022).
+        </li>
+        <li>Grover, S., Helliwell, J.F. How’s Life at Home? New Evidence on Marriage and the Set Point for Happiness. J
+          Happiness Stud 20, 373–390 (2019).
+        </li>
+        <li>株式会社IBJ 2022年度版 成婚白書<br/>https://www.ibjapan.jp/information/wp-content/uploads/2023/05/IBJ.pdf
+        </li>
       </ol>
     </Pagination>
   )

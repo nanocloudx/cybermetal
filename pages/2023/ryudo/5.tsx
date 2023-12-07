@@ -1,5 +1,3 @@
-import {Title} from '../../../components/Title'
-import {Image} from '../../../components/Image'
 import {Pagination} from '../../../components/Pagination'
 
 export default function Page() {

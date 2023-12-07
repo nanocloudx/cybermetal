@@ -16,14 +16,14 @@ export default function Page() {
           <Link href={'/2023/prologue/2'}>２</Link>
         </li>
         <li>
-          サイバーメタルチンピラ２です。（だいちろ）<br />
+          サイバーメタルチンピラ２です。（だいちろ）<br/>
           <Link href={'/2023/daichiro/1'}>１</Link>
           <Link href={'/2023/daichiro/2'}>２</Link>
           <Link href={'/2023/daichiro/3'}>３</Link>
           <Link href={'/2023/daichiro/4'}>４</Link>
         </li>
         <li>
-          チーズ作るよ（kinoppyd）<br />
+          チーズ作るよ（kinoppyd）<br/>
           <Link href={'/2023/kinoppyd/1'}>１</Link>
           <Link href={'/2023/kinoppyd/2'}>２</Link>
           <Link href={'/2023/kinoppyd/3'}>３</Link>
@@ -32,14 +32,14 @@ export default function Page() {
           <Link href={'/2023/kinoppyd/6'}>６</Link>
         </li>
         <li>
-          skebで名画を出す（冬椿）<br />
+          skebで名画を出す（冬椿）<br/>
           <Link href={'/2023/fuyutsubaki/1'}>１</Link>
           <Link href={'/2023/fuyutsubaki/2'}>２</Link>
           <Link href={'/2023/fuyutsubaki/3'}>３</Link>
           <Link href={'/2023/fuyutsubaki/4'}>４</Link>
         </li>
         <li>
-          身の回りのものをAIで美少女化したら楽しかった件（kuri）<br />
+          身の回りのものをAIで美少女化したら楽しかった件（kuri）<br/>
           <Link href={'/2023/kuri/1'}>１</Link>
           <Link href={'/2023/kuri/2'}>２</Link>
           <Link href={'/2023/kuri/3'}>３</Link>
@@ -49,7 +49,7 @@ export default function Page() {
           <Link href={'/2023/kuri/7'}>７</Link>
         </li>
         <li>
-          10万円で始める同人誌即売会の開き方（ryudo）<br />
+          10万円で始める同人誌即売会の開き方（ryudo）<br/>
           <Link href={'/2023/ryudo/1'}>１</Link>
           <Link href={'/2023/ryudo/2'}>２</Link>
           <Link href={'/2023/ryudo/3'}>３</Link>
@@ -58,14 +58,14 @@ export default function Page() {
           <Link href={'/2023/ryudo/6'}>６</Link>
         </li>
         <li>
-          島風くんコスプレを楽しむために知っておくべき事（きすちぃ）<br />
+          島風くんコスプレを楽しむために知っておくべき事（きすちぃ）<br/>
           <Link href={'/2023/quisty/1'}>１</Link>
           <Link href={'/2023/quisty/2'}>２</Link>
           <Link href={'/2023/quisty/3'}>３</Link>
           <Link href={'/2023/quisty/4'}>４</Link>
         </li>
         <li>
-          分かりやすくもない Android 端末購入ガイド（happo31）<br />
+          分かりやすくもない Android 端末購入ガイド（happo31）<br/>
           <Link href={'/2023/happo31/1'}>１</Link>
           <Link href={'/2023/happo31/2'}>２</Link>
           <Link href={'/2023/happo31/3'}>３</Link>
@@ -75,7 +75,7 @@ export default function Page() {
           <Link href={'/2023/happo31/7'}>７</Link>
         </li>
         <li>
-          ルービックキューブの話（kusano_k）<br />
+          ルービックキューブの話（kusano_k）<br/>
           <Link href={'/2023/kusano/1'}>１</Link>
           <Link href={'/2023/kusano/2'}>２</Link>
           <Link href={'/2023/kusano/3'}>３</Link>
@@ -83,7 +83,7 @@ export default function Page() {
           <Link href={'/2023/kusano/5'}>５</Link>
         </li>
         <li>
-          筆者の異常な視界（tayama0324）<br />
+          筆者の異常な視界（tayama0324）<br/>
           <Link href={'/2023/tayama/1'}>１</Link>
           <Link href={'/2023/tayama/2'}>２</Link>
           <Link href={'/2023/tayama/3'}>３</Link>
@@ -95,7 +95,7 @@ export default function Page() {
           <Link href={'/2023/tayama/9'}>９</Link>
         </li>
         <li>
-          婚活RTA（なのくろ）<br />
+          婚活RTA（なのくろ）<br/>
           <Link href={'/2023/nanocloudx/1'}>１</Link>
           <Link href={'/2023/nanocloudx/2'}>２</Link>
           <Link href={'/2023/nanocloudx/3'}>３</Link>
@@ -106,13 +106,13 @@ export default function Page() {
           <Link href={'/2023/nanocloudx/8'}>８</Link>
         </li>
         <li>
-          猫と赤子（ながいたん）<br />
+          猫と赤子（ながいたん）<br/>
           <Link href={'/2023/nagaitan/1'}>１</Link>
           <Link href={'/2023/nagaitan/2'}>２</Link>
           <Link href={'/2023/nagaitan/3'}>３</Link>
         </li>
         <li>
-          街角に佇む謎のアニメ看板マッサージ店の真実に迫る（shodai）<br />
+          街角に佇む謎のアニメ看板マッサージ店の真実に迫る（shodai）<br/>
           <Link href={'/2023/shodai/1'}>１</Link>
           <Link href={'/2023/shodai/2'}>２</Link>
           <Link href={'/2023/shodai/3'}>３</Link>
