@@ -47,6 +47,7 @@ export default function Page() {
           <Link href={'/2023/kuri/5'}>５</Link>
           <Link href={'/2023/kuri/6'}>６</Link>
           <Link href={'/2023/kuri/7'}>７</Link>
+          <Link href={'/2023/kuri/8'}>８</Link>
         </li>
         <li>
           10万円で始める同人誌即売会の開き方（ryudo）<br/>
@@ -83,14 +84,6 @@ export default function Page() {
           <Link href={'/2023/kusano/5'}>５</Link>
         </li>
         <li>
-          街角に佇む謎のアニメ看板マッサージ店の真実に迫る（shodai）<br/>
-          <Link href={'/2023/shodai/1'}>１</Link>
-          <Link href={'/2023/shodai/2'}>２</Link>
-          <Link href={'/2023/shodai/3'}>３</Link>
-          <Link href={'/2023/shodai/4'}>４</Link>
-          <Link href={'/2023/shodai/5'}>５</Link>
-        </li>
-        <li>
           筆者の異常な視界（tayama0324）<br/>
           <Link href={'/2023/tayama/1'}>１</Link>
           <Link href={'/2023/tayama/2'}>２</Link>
@@ -119,6 +112,14 @@ export default function Page() {
           <Link href={'/2023/nagaitan/1'}>１</Link>
           <Link href={'/2023/nagaitan/2'}>２</Link>
           <Link href={'/2023/nagaitan/3'}>３</Link>
+        </li>
+        <li>
+          街角に佇む謎のアニメ看板マッサージ店の真実に迫る（shodai）<br/>
+          <Link href={'/2023/shodai/1'}>１</Link>
+          <Link href={'/2023/shodai/2'}>２</Link>
+          <Link href={'/2023/shodai/3'}>３</Link>
+          <Link href={'/2023/shodai/4'}>４</Link>
+          <Link href={'/2023/shodai/5'}>５</Link>
         </li>
         <li>
           編集後記
