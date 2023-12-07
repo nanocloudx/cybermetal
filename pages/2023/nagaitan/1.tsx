@@ -6,11 +6,9 @@ export default function Page() {
     <Pagination author={'nagaitan'} pageCount={1}>
       <Title
         title={'猫と赤子'}
-        description={'！！！[注意]一言コメントが空欄です！！！'}
+        description={'2月に子どもが生まれた話です'}
         author={'ながいたん'}
         image={'/2023/author/nagaitan.jpg'}
-        // twitter={'@nanocloudx'}
-        // website={'https://wwww.dev'}
       />
       <p>猫を飼っていた。</p>
       <p>もともとは河原に捨てられていた子猫だった。友人の母親が見つけたのだが、その家ではすでに猫が3匹、犬が1匹飼われており、家では飼えないということになったらしい。子猫を見に行くという名目で友人に会いに行ったところ、その場で紙袋に入れて渡されて我が家にやってきた。キジトラ柄だったので虎屋の紙袋に入れられていたのは、友人母のちょっとしたウィットだ。</p>

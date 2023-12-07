@@ -16,7 +16,7 @@ export default function Page() {
           <Link href={'/2023/prologue/2'}>２</Link>
         </li>
         <li>
-          サイバーメタルチンピラ２です。（だいちろ）<br/>
+          サイバーメタルチンピラです。（だいちろ）<br/>
           <Link href={'/2023/daichiro/1'}>１</Link>
           <Link href={'/2023/daichiro/2'}>２</Link>
           <Link href={'/2023/daichiro/3'}>３</Link>
@@ -47,6 +47,7 @@ export default function Page() {
           <Link href={'/2023/kuri/5'}>５</Link>
           <Link href={'/2023/kuri/6'}>６</Link>
           <Link href={'/2023/kuri/7'}>７</Link>
+          <Link href={'/2023/kuri/8'}>８</Link>
         </li>
         <li>
           10万円で始める同人誌即売会の開き方（ryudo）<br/>
@@ -93,6 +94,7 @@ export default function Page() {
           <Link href={'/2023/tayama/7'}>７</Link>
           <Link href={'/2023/tayama/8'}>８</Link>
           <Link href={'/2023/tayama/9'}>９</Link>
+          <Link href={'/2023/tayama/10'}>10</Link>
         </li>
         <li>
           婚活RTA（なのくろ）<br/>

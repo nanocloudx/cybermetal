@@ -4,7 +4,7 @@ import {FullSizeImage} from '../../../components/FullSizeImage'
 export default function Page() {
   return (
     <Pagination author={'daichiro'} pageCount={2}>
-      <FullSizeImage href={'/2023/daichiro/daichiro.png'}/>
+      <FullSizeImage href={'/2023/daichiro/daichiro2.jpg'}/>
     </Pagination>
   )
 }
