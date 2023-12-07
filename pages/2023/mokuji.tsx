@@ -68,6 +68,14 @@ export default function Page() {
         // 1page
       />
       <Mokuji
+        page={getPageCount('shodai')}
+        title={'街角に佇む謎のアニメ看板マッサージ店の真実に迫る'}
+        description={'アニメイラスト看板のマッサージ店は異世界ダンジョンへの入口だった！？'}
+        author={'匿名チンピラ（埼玉県在住）'}
+        break
+        // 1page
+      />
+      <Mokuji
         page={getPageCount('tayama')}
         title={'筆者の異常な視界'}
         description={'またはいかにして私は心配するのをやめてプリズムを愛するようになったか'}
@@ -86,14 +94,6 @@ export default function Page() {
         title={'猫と赤子'}
         description={'2月に子どもが生まれた話です'}
         author={'ながいたん'}
-        // 1page
-      />
-      <Mokuji
-        page={getPageCount('shodai')}
-        title={'街角に佇む謎のアニメ看板マッサージ店の真実に迫る'}
-        description={'アニメイラスト看板のマッサージ店は異世界ダンジョンへの入口だった！？'}
-        author={'匿名チンピラ（埼玉県在住）'}
-        break
         // 1page
       />
       <Mokuji

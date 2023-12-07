@@ -4,7 +4,7 @@ import {Pagination} from '../../../components/Pagination'
 export default function Page() {
   return (
     <Pagination author={'kuri'} pageCount={3}>
-      <Image href={'/2023/kuri/kuri5.png'} description={'生成された画像'} widthPercentage={40}/>
+      <Image href={'/2023/kuri/kuri5.png'} description={'生成された画像'} widthPercentage={35}/>
       <p>画像は2x2の1枚絵として出力され、後述するUI操作で切り出したり解像度を上げることができます。出力された画像は他人も見ることができますが、有料版のステルスモードを使えば隠せます。</p>
       <h3>画像の加工や再生成の方法</h3>
       <p>にじジャーニーで生成した画像は、UI上から解像度をあげたり再生成する仕組みが用意されています。生成した画像の下部にU1~U4、V1~V4、リサイクルマークのボタンがあり、それぞれ以下の動作となります。</p>
