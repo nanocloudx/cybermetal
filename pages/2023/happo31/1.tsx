@@ -10,6 +10,7 @@ export default function Page() {
         author={'happo31'}
         image={'/2023/author/happo31.png'}
         misskey={'@happo31'}
+        website={'happo31sprogblog.hatenablog.jp'}
       />
       <p><strong>※以下の文章はすべて独自研究に基づくものです。</strong></p>
       <h2>まえがき</h2>

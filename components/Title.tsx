@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faGlobe } from '@fortawesome/free-solid-svg-icons'
-import { faTwitter } from '@fortawesome/free-brands-svg-icons'
+import {faXTwitter} from '@fortawesome/free-brands-svg-icons'
 import s from './Title.module.scss'
 
 type Props = {
@@ -23,7 +23,7 @@ export const Title: React.FC<Props> = (props) => {
         <img className={s.authorImage} src={props.image} />
         <span className={s.authorName}>{props.author}</span>
         {props.misskey && (<p className={s.authorMisskey}><img src={'/2023/misskey.jpg'} />{props.misskey}</p>)}
-        {props.twitter && (<p className={s.authorTwitter}><FontAwesomeIcon icon={faTwitter} fixedWidth />{props.twitter}</p>)}
+        {props.twitter && (<p className={s.authorTwitter}><FontAwesomeIcon icon={faXTwitter} fixedWidth />{props.twitter}</p>)}
         {props.website && (<p className={s.authorWebsite}><FontAwesomeIcon icon={faGlobe} fixedWidth />{props.website}</p>)}
       </div>
     </div>
