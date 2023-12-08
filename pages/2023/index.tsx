@@ -32,7 +32,7 @@ export default function Page() {
           <Link href={'/2023/kinoppyd/6'}>６</Link>
         </li>
         <li>
-          skebで名画を出す（冬椿）<br/>
+          Skebで名画を出す（冬椿）<br/>
           <Link href={'/2023/fuyutsubaki/1'}>１</Link>
           <Link href={'/2023/fuyutsubaki/2'}>２</Link>
           <Link href={'/2023/fuyutsubaki/3'}>３</Link>
