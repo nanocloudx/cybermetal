@@ -1,6 +1,6 @@
 import {Mokuji} from '../../components/Mokuji'
 import {Pagination} from '../../components/Pagination'
-import {getPageCount} from './pageCount'
+import {getPageCount} from '../../utils/2023/pageCount'
 
 export default function Page() {
   return (

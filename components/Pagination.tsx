@@ -1,7 +1,7 @@
 import * as React from 'react'
 import s from './Pagination.module.scss'
 import {PropsWithChildren} from 'react'
-import {getPageCount} from '../pages/2023/pageCount'
+import {getPageCount} from '../utils/2023/pageCount'
 
 type Props = {
   author?: string
