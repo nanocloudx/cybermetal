@@ -84,7 +84,7 @@ export default function Page() {
       <Mokuji
         page={getPageCount('nagaitan')}
         title={'猫と赤子'}
-        description={'2月に子どもが生まれた話です'}
+        description={'こちらを振り回すかわいい生き物たちについて'}
         author={'ながいたん'}
         // 1page
       />

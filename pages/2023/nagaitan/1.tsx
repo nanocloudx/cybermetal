@@ -6,7 +6,7 @@ export default function Page() {
     <Pagination author={'nagaitan'} pageCount={1}>
       <Title
         title={'猫と赤子'}
-        description={'2月に子どもが生まれた話です'}
+        description={'こちらを振り回すかわいい生き物たちについて'}
         author={'ながいたん'}
         image={'/2023/author/nagaitan.jpg'}
       />

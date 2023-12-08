@@ -1,4 +1,5 @@
 import {Pagination} from '../../../components/Pagination'
+import {Image} from '../../../components/Image'
 
 export default function Page() {
   return (
@@ -12,6 +13,7 @@ export default function Page() {
       <p>我々はまんまとその策略にはまり、猫のためにふかふかの寝床を用意し（毛布はすべて奪われる）、猫が好きそうなキャットフードを買い漁り（だいたい試供品は食べるのに大袋を買ってきたら食べない）、トイレの猫砂をこまめに交換し（新しい砂を入れた途端にトイレにきて用を足す）、思い切り走り回り爪研ぎができるように家を整え（マイホームを買いました）、下僕と化していく。</p>
       <p>でも良いのだ。仕方ない。だってかわいいのだもの。</p>
       <p>小さくて丸くて柔らかくて温かい、そして一瞬一瞬を全力で生きているこの生き物たち(猫と赤子)。たとえそのすべてが策略なのだとしても、どうにも愛おしくてたまらないのである。</p>
+      <Image href={'/2023/nagaitan/nagaitan.jpg'} widthPercentage={100} description={'猫と赤子を比較してみた。どちらもとてもかわいい。'} />
     </Pagination>
   )
 }

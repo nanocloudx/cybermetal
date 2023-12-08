@@ -4,10 +4,9 @@ import {Image} from '../../components/Image'
 export default function Page() {
   return (
     <Pagination author={'omake'} pageCount={1}>
-      <h2>おまけ</h2>
-      <Image href={'/2022/daichiro-neko.jpg'} description={'サイバーメタルねこ'} widthPercentage={75}/>
-      <Image href={'/2022/ppyd-neko.jpg'} description={'サイバーメタルチンピラと対峙するねこ'} widthPercentage={75}/>
-      <Image href={'/2022/roomba-neko.jpg'} description={'人類もAIもねこには敵わない'} widthPercentage={75}/>
+      <h2>おまけ：サイバーメタルチンピラねこ</h2>
+      <Image href={'/2023/omake/omake1.jpg'} description={'愚かな人間どもよ'} widthPercentage={50}/>
+      <Image href={'/2023/omake/omake2.jpg'} description={'わかっているじゃないか'} widthPercentage={50}/>
     </Pagination>
   )
 }
