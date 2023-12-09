@@ -6,7 +6,7 @@ export default function Page() {
     <Pagination author={'happo31'} pageCount={1}>
       <Title
         title={'分かりやすくもないAndroid端末購入ガイド'}
-        description={'に見せかけたベンチマーク主義へのアンチテーゼ'}
+        description={'に見せかけたガジェットレビューブログに対してのお気持ち'}
         author={'happo31'}
         image={'/2023/author/happo31.png'}
         misskey={'@happo31'}
