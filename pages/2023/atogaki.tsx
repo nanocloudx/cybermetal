@@ -23,7 +23,7 @@ export default function Page() {
           <Atogaki author={'happo31'} image={'/2023/author/happo31.png'} message={'「サイバーメタルチンピラ」のOSがAndroidだったら嫌だな'}/>
           <Atogaki author={'kusano_k'} image={'/2023/author/kusano.png'} message={'ルービックキューブをポチりましょう。'}/>
           <Atogaki author={'tayama0324'} image={'/2023/author/tayama.jpg'} message={'Mein Führer, I can see!'}/>
-          <Atogaki author={'なのくろ'} image={'/2023/author/nanocloudx.jpg'} message={'乃木坂&欅坂46合同オーディションの最終審査を辞退して結婚を選んだのが嫁です'}/>
+          <Atogaki author={'なのくろ'} image={'/2023/author/nanocloudx.jpg'} message={'嫁は乃木坂&欅坂46合同オーディションの最終審査まで進んだのに辞退したらしい'}/>
           <Atogaki author={'ながいたん'} image={'/2023/author/nagaitan.jpg'} message={'1年前には存在しなかった赤子がもう伝い歩きしている人生の不思議'}/>
           <Atogaki author={'匿名チンピラ（埼玉県在住）'} image={'/2023/author/shodai.png'} message={'10年のダンジョン探索の知見を共有することができて幸せです'}/>
         </div>
